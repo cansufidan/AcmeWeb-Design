@@ -8,4 +8,4 @@ HTML and CSS
 
 <h2> Design Gif </h2>
 
-![](acme.gif)# AcmeWeb-Design
+![](acme.gif)
